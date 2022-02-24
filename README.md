@@ -1,2 +1,2 @@
-# Hierarchical_census
+# Hierarchical census
 Hyperbolic mapping in census data.
